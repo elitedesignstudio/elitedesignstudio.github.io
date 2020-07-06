@@ -1,0 +1,186 @@
+@font-face {
+  font-family: "rbicon";
+  src: url("./fonts/ogo.eot");
+  src: url("./fonts/ogo.eot?#iefix") format("embedded-opentype"),
+       url("./fonts/ogo.woff") format("woff"),
+       url("./fonts/ogo.ttf") format("truetype"),
+       url("./fonts/ogo.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "rbicon";
+    src: url("./ogo.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="rbicon-"]:before, [class*=" rbicon-"]:before,
+[class^="rbicon-"]:after, [class*=" rbicon-"]:after {
+  font-family: rbicon;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.rbicon-linkedin-button:before { content: "\f100"; }
+.rbicon-twitter-logo-silhouette:before { content: "\f101"; }
+.rbicon-call:before { content: "\f102"; }
+.rbicon-magnifying-glass-search:before { content: "\f103"; }
+.rbicon-tick:before { content: "\f104"; }
+.rbicon-menu:before { content: "\f105"; }
+.rbicon-delete:before { content: "\f106"; }
+.rbicon-youtube-logo:before { content: "\f107"; }
+.rbicon-facebook-letter-logo:before { content: "\f108"; }
+.rbicon-reply-arrow:before { content: "\f109"; }
+.rbicon-black-back-closed-envelope-shape:before { content: "\f10a"; }
+.rbicon-link-interface-symbol:before { content: "\f10b"; }
+.rbicon-instagram-social-network-logo-of-photo-camera:before { content: "\f10c"; }
+.rbicon-facebook-black-social-button-circle:before { content: "\f10d"; }
+.rbicon-cross-remove-sign:before { content: "\f10e"; }
+.rbicon-keyboard-right-arrow-button:before { content: "\f10f"; }
+.rbicon-mark-as-favorite-star:before { content: "\f110"; }
+.rbicon-shopping-cart:before { content: "\f111"; }
+.rbicon-searching-magnifying-glass:before { content: "\f112"; }
+.rbicon-twitter-logo:before { content: "\f113"; }
+.rbicon-tick-mark:before { content: "\f114"; }
+.rbicon-move-to-next:before { content: "\f115"; }
+.rbicon-cube-with-arrows:before { content: "\f116"; }
+.rbicon-instagram-logo:before { content: "\f117"; }
+.rbicon-google-plus-logo-button:before { content: "\f118"; }
+.rbicon-rocket:before { content: "\f119"; }
+.rbicon-cross:before { content: "\f11a"; }
+.rbicon-eye:before { content: "\f11b"; }
+.rbicon-click:before { content: "\f11c"; }
+.rbicon-empty-cart:before { content: "\f11d"; }
+.rbicon-circles:before { content: "\f11e"; }
+.rbicon-rotate-option:before { content: "\f11f"; }
+.rbicon-move-up:before { content: "\f120"; }
+.rbicon-play-button:before { content: "\f121"; }
+.rbicon-plug:before { content: "\f122"; }
+.rbicon-left-arrow:before { content: "\f123"; }
+.rbicon-right-arrow:before { content: "\f124"; }
+.rbicon-down-chevron:before { content: "\f125"; }
+.rbicon-up-chevron:before { content: "\f126"; }
+.rbicon-left-chevron:before { content: "\f127"; }
+.rbicon-right-chevron:before { content: "\f128"; }
+.rbicon-info:before { content: "\f129"; }
+.rbicon-menu-1:before {content: "\f12a";font-size: 21px;}
+.rbicon-warning:before { content: "\f12b"; }
+.rbicon-menu-2:before { content: "\f12c"; }
+.rbicon-menu-3:before { content: "\f12d"; }
+.rbicon-target:before { content: "\f12e"; }
+.rbicon-battery:before { content: "\f12f"; }
+.rbicon-photo-camera:before { content: "\f130"; }
+.rbicon-avatar:before { content: "\f131"; }
+.rbicon-sliders:before { content: "\f132"; }
+.rbicon-scissors:before { content: "\f133"; }
+.rbicon-lamp:before { content: "\f134"; }
+.rbicon-creative-mind:before { content: "\f135"; }
+.rbicon-skill:before { content: "\f136"; }
+.rbicon-brainstorming:before { content: "\f137"; }
+.rbicon-presentation:before { content: "\f138"; }
+.rbicon-target-1:before { content: "\f139"; }
+.rbicon-hashtag:before { content: "\f13a"; }
+.rbicon-like:before { content: "\f13b"; }
+.rbicon-mobile-chat:before { content: "\f13c"; }
+.rbicon-phone:before { content: "\f13d"; }
+.rbicon-phone-1:before { content: "\f13e"; }
+.rbicon-phone-2:before { content: "\f13f"; }
+.rbicon-rotation:before { content: "\f140"; }
+.rbicon-behance:before { content: "\f141"; }
+.rbicon-messenger:before { content: "\f142"; }
+.rbicon-facebook:before { content: "\f143"; }
+.rbicon-github:before { content: "\f144"; }
+.rbicon-instagram:before { content: "\f145"; }
+.rbicon-linkedin:before { content: "\f146"; }
+.rbicon-pinterest:before { content: "\f147"; }
+.rbicon-reddit:before { content: "\f148"; }
+.rbicon-rss:before { content: "\f149"; }
+.rbicon-skype:before { content: "\f14a"; }
+.rbicon-snapchat:before { content: "\f14b"; }
+.rbicon-soundcloud:before { content: "\f14c"; }
+.rbicon-spotify:before { content: "\f14d"; }
+.rbicon-twitter:before { content: "\f14e"; }
+.rbicon-twitter-1:before { content: "\f14f"; }
+.rbicon-vimeo:before { content: "\f150"; }
+.rbicon-vk:before { content: "\f151"; }
+.rbicon-whatsapp:before { content: "\f152"; }
+.rbicon-youtube:before { content: "\f153"; }
+.rbicon-goal:before { content: "\f154"; }
+.rbicon-celsius:before { content: "\f155"; }
+.rbicon-cube:before { content: "\f156"; }
+.rbicon-keypad:before { content: "\f157"; }
+.rbicon-idea:before { content: "\f158"; }
+.rbicon-startup:before { content: "\f159"; }
+.rbicon-potential:before { content: "\f15a"; }
+.rbicon-target-2:before { content: "\f15b"; }
+.rbicon-tie:before { content: "\f15c"; }
+.rbicon-group:before { content: "\f15d"; }
+.rbicon-trophy:before { content: "\f15e"; }
+.rbicon-virtual-reality:before { content: "\f15f"; }
+.rbicon-pencil:before { content: "\f160"; }
+.rbicon-print:before { content: "\f161"; }
+.rbicon-compass:before { content: "\f162"; }
+.rbicon-startup-1:before { content: "\f163"; }
+.rbicon-color:before { content: "\f164"; }
+.rbicon-idea-1:before { content: "\f165"; }
+.rbicon-artboard:before { content: "\f166"; }
+.rbicon-crop:before { content: "\f167"; }
+.rbicon-rgb:before { content: "\f168"; }
+.rbicon-magic:before { content: "\f169"; }
+.rbicon-layer:before { content: "\f16a"; }
+.rbicon-computer:before { content: "\f16b"; }
+.rbicon-art:before { content: "\f16c"; }
+.rbicon-cube-1:before { content: "\f16d"; }
+.rbicon-sketching:before { content: "\f16e"; }
+.rbicon-folder:before { content: "\f16f"; }
+.rbicon-plane:before { content: "\f170"; }
+.rbicon-customer-service:before { content: "\f171"; }
+.rbicon-learning:before { content: "\f172"; }
+.rbicon-woman:before { content: "\f173"; }
+.rbicon-usb:before { content: "\f174"; }
+.rbicon-shield:before { content: "\f175"; }
+.rbicon-virtual-reality-1:before { content: "\f176"; }
+.rbicon-responsive:before { content: "\f177"; }
+.rbicon-server:before { content: "\f178"; }
+.rbicon-view:before { content: "\f179"; }
+.rbicon-layers:before { content: "\f17a"; }
+.rbicon-app-development:before { content: "\f17b"; }
+.rbicon-inspiration:before { content: "\f17c"; }
+.rbicon-vector:before { content: "\f17d"; }
+.rbicon-cms:before { content: "\f17e"; }
+.rbicon-mobile-app:before { content: "\f17f"; }
+.rbicon-typography:before { content: "\f180"; }
+.rbicon-settings:before { content: "\f181"; }
+.rbicon-conversation:before { content: "\f182"; }
+.rbicon-settings-1:before { content: "\f183"; }
+.rbicon-usability:before { content: "\f184"; }
+.rbicon-testing:before { content: "\f185"; }
+.rbicon-content:before { content: "\f186"; }
+.rbicon-creativity:before { content: "\f187"; }
+.rbicon-sharing:before { content: "\f188"; }
+.rbicon-solution:before { content: "\f189"; }
+.rbicon-target-3:before { content: "\f18a"; }
+.rbicon-photo-camera-1:before { content: "\f18b"; }
+.rbicon-diamond:before { content: "\f18c"; }
+.rbicon-launch:before { content: "\f18d"; }
+.rbicon-signal:before { content: "\f18e"; }
+.rbicon-scanner:before { content: "\f18f"; }
+.rbicon-computer-mouse:before { content: "\f190"; }
+.rbicon-cmyk:before { content: "\f191"; }
+.rbicon-facebook-1:before { content: "\f192"; }
+.rbicon-twitter-2:before { content: "\f193"; }
+.rbicon-whatsapp-1:before { content: "\f194"; }
+.rbicon-groupme:before { content: "\f195"; }
+.rbicon-kik:before { content: "\f196"; }
+.rbicon-skype-1:before { content: "\f197"; }
+.rbicon-periscope:before { content: "\f198"; }
+.rbicon-youtube-1:before { content: "\f199"; }
+.rbicon-itunes:before { content: "\f19a"; }
+.rbicon-linkedin-1:before { content: "\f19b"; }
+.rbicon-instagram-1:before { content: "\f19c"; }
+.rbicon-messenger-1:before { content: "\f19d"; }
+.rbicon-twitter-3:before { content: "\f19e"; }
+.rbicon-snapchat-1:before { content: "\f19f"; }
+.rbicon-reddit-1:before { content: "\f1a0"; }
