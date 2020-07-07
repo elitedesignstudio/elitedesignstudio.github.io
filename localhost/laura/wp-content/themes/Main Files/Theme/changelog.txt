@@ -1,0 +1,19 @@
+v.1.0.2 (Apr 21, 2020)
+Fixed:
+ - FontAwesome 5 library added,
+ - Custom Mask issue,
+ - Child Theme issue,
+ - CWS Services broken urls issue.
+
+
+v.1.0.1 (Nov 15, 2019)
+Fixed:
+ - RTL issues,
+ - Our Team hover issue,
+ - Slick Slider script init issue,
+ - Blog filtering issue,
+ - jQuery error issue.
+
+
+v.1.0.0 (Nov 12, 2019)
+Theme release.
